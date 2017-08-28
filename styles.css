@@ -20,9 +20,19 @@ ul li {
 }
 
 th.tucna-trida {
+	font-size:30px;
+}
+
+html{
+	font-family: verdana;
+	background-color: lightgray;
+	text-align: center;
+	width: 800px;
+}
 
 .oramovane {
 	border: dashed;
+}
 
 .highlight {
 	color: pink;

@@ -1,0 +1,30 @@
+h1{
+color:red;
+font-size:50px;
+}
+
+ul li {
+	border: solid;
+}
+
+#prvni {
+	color: red;
+}
+.prvni-trida {
+	font-style: italic;
+}
+
+.tucna-trida {
+	font-weight: bold;
+	color: darkgray;
+}
+
+th.tucna-trida {
+
+.oramovane {
+	border: dashed;
+
+.highlight {
+	color: pink;
+}
+	
